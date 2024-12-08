@@ -1,0 +1,3 @@
+Adb Installer for Windows от @streizzand. Adb&Fastboot версии r35.0.2.
+
+Для установки запустите install.bat от имени администратора(ПКМ - Запуск от имени администратора)
